@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Inter;
+    src: url("../assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
+}
+
+@font-face {
+    font-family: DM Sans;
+    src: url("./fonts/DMSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url("./fonts/Montserrat-VariableFont_wght.ttf");
+}
